@@ -1,0 +1,19 @@
+{"Patatine":[
+
+{"nome":"Fonzies", "croccantezza":"9", "gusto":7, 
+"rischio_dipendenza":10, "chimichevolezza":5},
+{"nome":"Yonkers", "croccantezza":"6", "gusto":10, 
+"rischio_dipendenza":9, "chimichevolezza":9},
+{"nome":"SanCarlo1933", "croccantezza":"10", "gusto":7, 
+"rischio_dipendenza":8, "chimichevolezza":3},
+{"nome":"Pringles", "croccantezza":"7", "gusto":8, 
+"rischio_dipendenza":7, "chimichevolezza":9},
+{"nome":"Dixi", "croccantezza":"6", "gusto":8, 
+"rischio_dipendenza":10, "chimichevolezza":6},
+{"nome":"BBacon", "croccantezza":"7", "gusto":10, 
+"rischio_dipendenza":10, "chimichevolezza":9},
+{"nome":"Virtual", "croccantezza":"8", "gusto":9, 
+"rischio_dipendenza":8, "chimichevolezza":8}
+
+
+]}
